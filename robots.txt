@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rudracodeshere.github.io/profit-calculator/sitemap.xml
